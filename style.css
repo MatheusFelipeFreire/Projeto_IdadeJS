@@ -1,0 +1,19 @@
+body{
+    background-color: rgba(33, 33, 180, 0.767);
+    color: white;
+
+}
+
+header{
+    font-size: 20px;
+    text-align: center;
+}
+section{
+    margin: auto;
+    width: 300px;
+    background-color: rgba(240, 248, 255, 0.24);
+}
+p{
+    text-align: center;
+    
+}
